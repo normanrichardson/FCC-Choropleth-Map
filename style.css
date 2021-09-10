@@ -1,0 +1,21 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: courier new;	
+    min-height: 97vh;
+    background: black;
+    color: #00ff00;
+}
+  
+#tooltip {	
+    text-align: left;
+    position: absolute;					
+    padding: 2px;
+    font: 12px courier new;		
+    background: #00ff00;;	
+    border: 0px;		
+    pointer-events: none;
+    color: black;
+}
