@@ -1,5 +1,22 @@
-# FCC-Choropleth-Map
+# [FCC-Choropleth-Map](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-choropleth-map)
 
-This was put together for the Data Visualization course on [FCC](https://www.freecodecamp.org/certification/fcc21752981-84f1-47db-a786-eea26f47141e/data-visualization). The aim was to create a choropleth map visualization of the prevalence of bachelor degrees. The website used D3.js to build the visualization.
+This was put together for the Data Visualization course on [FCC](https://www.freecodecamp.org/learn/data-visualization/). The aim was to create a choropleth map visualization of the prevalence of bachelor degrees. The application uses D3.js to build the visualization.
 
-A demo can be found [here](https://normanrichardson.github.io/FCC-Choropleth-Map/). The unit tests can be run by selecting the "hamburger menu" in the top left and selecting the "D3: choropleth" option.
+View [here](https://normanrichardson.github.io/FCC-Choropleth-Map/).
+
+### Project requirements
+
+The project requirements can be tested by selecting the "hamburger menu" in the top left and selecting the "D3: choropleth" option.
+
+### Usage
+1. Clone the Repository
+> git clone https://github.com/normanrichardson/FCC-Choropleth-Map.git
+
+> cd FCC-Choropleth-Map
+
+2. Run a local server
+
+For example:
+> python -m http.server
+
+View on `localhost:8000`
