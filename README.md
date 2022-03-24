@@ -8,15 +8,20 @@ View [here](https://normanrichardson.github.io/FCC-Choropleth-Map/).
 
 The project requirements can be tested by selecting the "hamburger menu" in the top left and selecting the "D3: choropleth" option.
 
+### Project Improvements
+
+* Deployed to on Github pages [here](https://normanrichardson.github.io/FCC-Choropleth-Map/).
+
 ### Usage
 1. Clone the Repository
-> git clone https://github.com/normanrichardson/FCC-Choropleth-Map.git
-
-> cd FCC-Choropleth-Map
-
+    ```
+    $ git clone https://github.com/normanrichardson/FCC-Choropleth-Map.git
+    $ cd FCC-Choropleth-Map
+    ```
 2. Run a local server
 
-For example:
-> python -m http.server
-
-View on `localhost:8000`
+    For example:
+    ```
+    $ python -m http.server
+    ```
+    View on `localhost:8000`
